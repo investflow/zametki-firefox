@@ -1,3 +1,2 @@
-# "Заметки" - плагин для браузера Google Chrome
+# "Заметки" - плагин для браузера Firefox 
 
-Установить расширение для браузера можно перейдя по ссылке: https://chrome.google.com/webstore/detail/zametki/mceccmmdflekcgmdiofjlilcfchajmgb
