@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Zametki",
+  "short_name": "Заметки для Investflow",
+  "description": "Персональные заметки для сервиса Investflow.Ru",
+  "background": {
+    "page": "background.htm",
+    "persistent": true
+  },
+  "icons": {
+    "16": "logo_16.png"
+  },
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ],
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "version": "1.0.0"
+}
